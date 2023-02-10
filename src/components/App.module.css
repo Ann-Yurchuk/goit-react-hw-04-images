@@ -1,18 +1,18 @@
 .App {
-    display: grid;
-    grid-template-columns: 1fr;
-    grid-gap: 16px;
-    padding-bottom: 24px;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-gap: 16px;
+  padding-bottom: 24px;
 }
 
-.Hide{
-    visibility: hidden;
-    opacity: 0;
-    display: none;
+.Hide {
+  visibility: hidden;
+  opacity: 0;
+  display: none;
 }
 
 .Inhide {
-    visibility: inherit;
-    opacity: 1;
-    display: block;
+  visibility: inherit;
+  opacity: 1;
+  display: block;
 }
